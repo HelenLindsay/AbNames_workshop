@@ -23,4 +23,5 @@ Suggests:
     yezhengSTAT/ADTnorm,
     Bernibra/CITE-wrangling
 VignetteBuilder: knitr
+URL: https://helenlindsay.github.io/AbNames_workshop/
 DockerImage: ghcr.io/seandavi/buildabiocworkshop:latest
