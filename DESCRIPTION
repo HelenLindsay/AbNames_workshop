@@ -19,8 +19,8 @@ Depends:
 Suggests: 
     knitr,
     rmarkdown,
-    pkgdown
+    pkgdown,
     yezhengSTAT/ADTnorm,
 VignetteBuilder: knitr
 URL: https://helenlindsay.github.io/AbNames_workshop/
-DockerImage: ghcr.io/seandavi/buildabiocworkshop:latest
+DockerImage: ghcr.io/helenlindsay/abnames_workshop:latest
