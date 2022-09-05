@@ -15,12 +15,12 @@ Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.1.0
 Depends: 
     Biobase,
-    HelenLindsay/AbNames,
+    HelenLindsay/AbNames
 Suggests: 
     knitr,
     rmarkdown,
     pkgdown,
-    yezhengSTAT/ADTnorm,
+    yezhengSTAT/ADTnorm
 VignetteBuilder: knitr
 URL: https://helenlindsay.github.io/AbNames_workshop/
 DockerImage: ghcr.io/helenlindsay/abnames_workshop:latest
